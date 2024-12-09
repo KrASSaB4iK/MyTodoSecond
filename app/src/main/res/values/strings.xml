@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTodo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="top_bar">Tasks</string>
+</resources>
